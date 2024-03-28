@@ -73,7 +73,7 @@ code {
 
 @font-face{
 	font-family: 'VietnameseFont';
-	src: url('./font/andika-basic/AndikaNewBasic-B.ttf')
+	src: url('./font/andika-basic/AndikaNewBasic-R.ttf')
 }
 .font-vietnam{
 	font-family: 'VietnameseFont', Arial, sans-serif;
