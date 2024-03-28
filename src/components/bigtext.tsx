@@ -7,7 +7,7 @@ interface TextLine {
 
 const BigText: React.FC<TextLine> = ({ string, customClass }) => {
   return (
-    <p className={`my-component ${customClass} uppercase font-extrabold font-serif  my-1 tracking-tighter`}>
+    <p className={`my-component ${customClass} font-vietnam  uppercase font-extrabold font-serif  my-1 tracking-tighter`}>
       {string}
     </p>
   );

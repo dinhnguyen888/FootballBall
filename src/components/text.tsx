@@ -10,7 +10,7 @@ const TextMain: React.FC<TextLine> = ({ string, customClass }) => {
   const formattedString = string.replace(/(?:\r\n|\r|\n)/g, '<br/>');
 
   return (
-    <p className={`my-component ${customClass}  font-light text-sm font-mono uppercase my-2`} dangerouslySetInnerHTML={{ __html: formattedString }} />
+    <p className={`my-component ${customClass} font-vietnam  font-light text-sm font-mono uppercase my-2`} dangerouslySetInnerHTML={{ __html: formattedString }} />
   );
 };
 
