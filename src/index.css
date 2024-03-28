@@ -67,3 +67,14 @@ code {
         width: 300%;
     }
 }
+
+
+
+
+@font-face{
+	font-family: 'VietnameseFont';
+	src: url('./font/andika-basic/AndikaNewBasic-B.ttf')
+}
+.font-vietnam{
+	font-family: 'VietnameseFont', Arial, sans-serif;
+}

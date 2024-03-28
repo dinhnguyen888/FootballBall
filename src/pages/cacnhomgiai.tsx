@@ -13,10 +13,10 @@ const Cacnhomgiai = () => {
 				<div className="flex flex-col justify-center h-full">
 				
 
-			 <BigText customClass="text-center text-2xl my-7 text-blue-900    " string="GROUP GIẢI ĐẤU TRÊN FACEBOOK "/>
+			 <BigText customClass="text-center text-2xl my-7 text-blue-900 font-vietnam   " string="GROUP GIẢI ĐẤU TRÊN FACEBOOK "/>
 			 <a href="" className="text-center my-4 text-xl text-blue-700 uppercase text-wrap underline">CHÈN đường link vào</a>
 
-			 <BigText customClass="text-center text-2xl my-7 text-blue-900    " string="BOX GIẢI ĐẤU TRÊN ZALO"/>
+			 <BigText customClass="text-center text-2xl my-7 text-blue-900 font-vietnam    " string="BOX GIẢI ĐẤU TRÊN ZALO"/>
 			<a href="" className="text-center my-4 text-xl text-blue-700 uppercase text-wrap underline">chèn đường link vào</a>
 					</div>
 					</Body>
