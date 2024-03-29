@@ -21,8 +21,7 @@ const Trangchu = () => {
 				
 				<BigText customClass="text-center my-4  mx-11 " string="FC Online cam kết cung cấp một môi trường công bằng và chuyên nghiệp, nơi mọi người đều có cơ hội để thể hiện bản thân và tận hưởng niềm vui của trò chơi." />
 				
-				<BigText customClass="text-center my-4 "string="GIẢI ĐẤU ĐÃ PHẢI TẠM DỪNG SAU MÙA THỨ 4 NĂM 2018 CHO TỚI NĂM 2022 MỚI CÓ MÙA GIẢI THỨ 4, NHƯNG LẦN NÀY LÀ PHIÊN BẢN FIFA ONLINE 4" />
-				
+							
 				<BigText customClass="text-center my-4 "string="Với sự đa dạng về độ tuổi, giới tính và kỹ năng, FC Online đang trở thành điểm đến lý tưởng cho những ai yêu thích bóng đá và trò chơi điện tử." />	
 					</div>
 					</Body>
