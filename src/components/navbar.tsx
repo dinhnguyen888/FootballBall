@@ -2,7 +2,7 @@ import React from "react";
 import { ReactComponent as SvgSmiley } from "../img/logonav.svg";
 const Navbar = () => {
     return (
-        <nav className="w-full fixed top-0 left-0 right-0 bg-blue-950 text-white z-20 opacity-90">
+        <nav className="w-full fixed top-0 left-0 right-0 bg-green-500 text-white z-20 opacity-90">
             <div className="container mx-auto px-4">
                 {/* Logo */}
                 <div className="flex items-center justify-between py-4 ">
@@ -14,7 +14,7 @@ const Navbar = () => {
                         <li className=" navbar-dropdown">
                             
                                 <p className="navbar-link">NỘI QUY GIẢI ĐẤU ~ </p>
-							<div className="dropdown-content bg-blue-950 z-10 ">
+							<div className="dropdown-content bg-green-500 z-10 ">
                                    
                                     <a href="/dieukienthamdu">Điều kiện tham dự</a>
                                     <a href="/noiquy">Nội quy</a>
@@ -26,11 +26,11 @@ const Navbar = () => {
                         <li className=" navbar-dropdown">
                             
                             <p  className="navbar-link">GM GROUP CUP ~ </p>
-                        <div className="dropdown-content bg-blue-950 z-10 ">
+                        <div className="dropdown-content bg-green-500 z-10 ">
                                
                                 <a href="/thethuc">THỂ THỨC</a>
                                 <a href="/giaithuong">GIẢI THƯỞNG</a>
-                                <a href="/ltd">LTĐ VÀ BẢN XẾP HẠNG</a>
+                                <a href="/ltd">LTĐ VÀ BẢNG XẾP HẠNG</a>
                             
                             
                         </div>
@@ -40,7 +40,7 @@ const Navbar = () => {
                         <li className=" navbar-dropdown">
                             
                             <p  className="navbar-link">GM GROUP MOMENT~ </p>
-                        <div className="dropdown-content bg-blue-950 z-10 ">
+                        <div className="dropdown-content bg-green-500 z-10 ">
                                
                                 <a href="/tieudiem">Tiêu diểm</a>
                                 <a href="/danhsachhlv">Danh sách HLV</a>
@@ -50,7 +50,7 @@ const Navbar = () => {
                     </li>
                         <li className=" navbar-dropdown">    
                         <p  className="navbar-link">PHÒNG TRUYỀN THÔNG ~ </p>
-							<div className="dropdown-content bg-blue-950 z-10 ">
+							<div className="dropdown-content bg-green-500 z-10 ">
                                    
                                     <a href="/topcacmua">top 3 các mùa</a>
                                     <a href="/xephang">bảng xếp hạng nhà vô địch </a>
@@ -61,7 +61,7 @@ const Navbar = () => {
                         <li className=" navbar-dropdown">
                             
                                 <p  className="navbar-link">LIÊN HỆ ~ </p>
-							<div className="dropdown-content bg-blue-950 z-10 ">
+							<div className="dropdown-content bg-green-500 z-10 ">
                                    
                                     <a href="/cacnhomgiai">Các nhóm giải</a>
                                     <a href="/admin">Admin</a>

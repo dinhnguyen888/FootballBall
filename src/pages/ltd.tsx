@@ -13,7 +13,7 @@ const Ltd = () => {
 			<Banner text=""/>
 			<Body>
             
-      <h1 className="text-center my-11 uppercase font-vietnam font-bold">Bản xếp hạng</h1>
+      <h1 className="text-center my-11 uppercase font-vietnam font-bold">Bảng xếp hạng</h1>
       <GoogleSheetViewer sheetUrl={sheetUrl} />
     
 					</Body>
