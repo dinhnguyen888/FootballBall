@@ -14,7 +14,7 @@ const Footer = () => {
 				<div className="block text-center mx-64">
 					<BigText customClass="text-blue-900" string="TẠP CHÍ ĐIỆN TỬ"  />
 					<BigText customClass="text-blue-900"  string="HỆ THỐNG GIẢI ĐẤU CỘNG ĐỒNG FC ONLINE -GREAT MATES GROUP"  />
-					<TextMain customClass="mb-5" string="Vui chơi như nhà cái" />
+					<TextMain customClass="mb-5" string="Vui chơi như nhà cái-thế trận thay đổi người chơi đắm đuối" />
 					</div>
 			</div>
 			
