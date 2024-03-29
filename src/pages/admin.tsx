@@ -14,10 +14,10 @@ const Admin = () => {
 				<BigText customClass="text-center text-2xl my-7 text-blue-900  font-vietnam   " string="FACEBOOK CÁ NHÂN"/>
 
 			 <BigText customClass="text-center text-2xl my-7 text-blue-900  font-vietnam   " string="TRƯỞNG BAN TỔ CHỨC GIẢI ĐẤU "/>
-			 <a href="" className="text-center my-4 text-xl text-blue-700 uppercase text-wrap underline">tên gì đó t không biết tự điền vào đi </a>
+			 <a href="https://www.facebook.com/plong2604" className="text-center my-4 text-xl text-blue-700 uppercase text-wrap underline">PHAN LONG </a>
 
 			 <BigText customClass="text-center text-2xl my-7 text-blue-900  font-vietnam   " string="PHÓ BAN TỔ CHỨC GIẢI ĐẤU "/>
-			<a href="" className="text-center my-4 text-xl text-blue-700 uppercase text-wrap underline">tên gì đó t không biết</a>
+			<a href="https://www.facebook.com/levandung.sla" className="text-center my-4 text-xl text-blue-700 uppercase text-wrap underline">DŨNG HUYỀN</a>
 					</div>
 					</Body>
 			<Footer />

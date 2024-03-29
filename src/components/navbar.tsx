@@ -53,7 +53,7 @@ const Navbar = () => {
 							<div className="dropdown-content bg-blue-950 z-10 ">
                                    
                                     <a href="/topcacmua">top 3 các mùa</a>
-                                    <a href="/xephang">bản xếp hạng mọi thời đại</a>
+                                    <a href="/xephang">bảng xếp hạng nhà vô địch </a>
                                 
 								
                             </div>

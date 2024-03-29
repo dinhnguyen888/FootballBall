@@ -8,7 +8,7 @@ const Xephang = () => {
 	return (	
 
 		<>	
-			<Banner text="BẢN XẾP HẠNG MỌI THỜI ĐẠI"/>
+			<Banner text="BẢNG XẾP HẠNG NHÀ VÔ ĐỊCH"/>
 			<Body>
 				<div className="flex flex-col justify-center h-full">
 
