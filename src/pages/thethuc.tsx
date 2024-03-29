@@ -12,7 +12,7 @@ const Thethuc = () => {
 			<Banner text=""/>
 			<Body>
 				<div className="flex flex-col justify-center h-full">
-			 <BigText customClass=" text-xl mt-11 text-blue-900 mx-44   " string="	GM CROUP CUP - MÙA 29"/>
+			 <BigText customClass=" text-xl mt-11 text-blue-900 mx-44   " string="	GM CROUP CUP - MÙA 1"/>
 
 
 
