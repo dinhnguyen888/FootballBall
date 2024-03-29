@@ -8,22 +8,22 @@ const Trangchu = () => {
 	return (	
 
 		<>	
-			<Banner text="Trang chủ "/>
+			<Banner text=""/>
 			<Body>
 				<div className="flex flex-col justify-center h-full">
 			 <BigText customClass="text-center text-3xl my-14 text-blue-900    " string="GIỚI THIỆU SƠ LƯỢC"/>
 
-					<BigText customClass="text-center my-4 " string="GIẢI BÓNG ĐÁ THỂ THAO ĐIỆN TỬ FC ONLINE QBFC THE LEAGUE LÀ GIẢI ĐẤU GIÀNH CHO CÁC HLV GẶP GỠ THI ĐẤU GIAO LƯU, CỌ XÁT, HỌC HỎI..." />
+					<BigText customClass="text-center my-4 mx-11 " string="GIẢI BÓNG ĐÁ THỂ THAO ĐIỆN TỬ FC ONLINE GREAT MATES group là một sân chơi ảo được tổ chức trực tuyến dành cho các đội bóng đam mê, nơi họ có thể thể hiện tài năng, chiến thuật và sự gắn kết của mình thông qua trò chơi điện tử, là cơ hội để tạo ra các mối quan hệ mới, giao lưu văn hóa và cùng nhau xây dựng cộng đồng đam mê bóng đá." />
 				
-				<BigText customClass="text-center my-4 " string="GIẢI ĐẤU DO ADMIN CRID DƯƠNG THÀNH LẬP LẦN ĐẦU TIÊN VÀO NHỮNG NGÀY CUỐI NĂM 2016" />
+				<BigText customClass="text-center my-4 " string="GIẢI ĐẤU DO ADMIN Phan long THÀNH LẬP vào tháng 4 năm 2024. " />
 				
-				<BigText customClass="text-center my-4 " string="LÚC ĐÓ GIẢI ĐẤU THI ĐẤU VỚI PHIÊN BẢN FIFA ONLINE 3" />
+				<BigText customClass="text-center my-4 mx-11 " string="Tại GREAT MATES group, các đội bóng sẽ tham gia vào các cuộc đối đầu kịch tính, từ vòng loại đến vòng chung kết, để tranh giành danh hiệu và phần thưởng hấp dẫn. Bằng cách sử dụng nền tảng trực tuyến, các thành viên có thể tương tác, thi đấu và theo dõi trận đấu mọi lúc, mọi nơi, chỉ cần có kết nối internet." />
 				
-				<BigText customClass="text-center my-4 " string="THEO DÒNG CHẢY THỜI GIAN THÌ FIFA ONLINE 3 CŨNG ĐÃ NHƯỜNG SÂN CHO FIFA ONLINE 4" />
+				<BigText customClass="text-center my-4  mx-11 " string="FC Online cam kết cung cấp một môi trường công bằng và chuyên nghiệp, nơi mọi người đều có cơ hội để thể hiện bản thân và tận hưởng niềm vui của trò chơi." />
 				
 				<BigText customClass="text-center my-4 "string="GIẢI ĐẤU ĐÃ PHẢI TẠM DỪNG SAU MÙA THỨ 4 NĂM 2018 CHO TỚI NĂM 2022 MỚI CÓ MÙA GIẢI THỨ 4, NHƯNG LẦN NÀY LÀ PHIÊN BẢN FIFA ONLINE 4" />
 				
-				<BigText customClass="text-center my-4 "string="VÀ ĐẾN NĂM 2023 THÌ GAME LẠI ĐỔI TÊN: FC ONLINE" />	
+				<BigText customClass="text-center my-4 "string="Với sự đa dạng về độ tuổi, giới tính và kỹ năng, FC Online đang trở thành điểm đến lý tưởng cho những ai yêu thích bóng đá và trò chơi điện tử." />	
 					</div>
 					</Body>
 			<Footer />

@@ -1,5 +1,5 @@
 import React from "react";
-import { ReactComponent as SvgSmiley } from "../img/5951065.svg";
+import { ReactComponent as SvgSmiley } from "../img/logonav.svg";
 const Navbar = () => {
     return (
         <nav className="w-full fixed top-0 left-0 right-0 bg-blue-950 text-white z-20 opacity-90">
@@ -9,7 +9,7 @@ const Navbar = () => {
                     <a href="/" className="text-xl font-bold">
                     <SvgSmiley style={{ fill: "green", height:"16px", width:"200px" }} />
                     </a>
-                    <ul className="flex space-x-4 ml-96 text-sm ">
+                    <ul className="flex space-x-4 ml-60 text-sm ">
                         <li><a href="/" className="navbar-link">TRANG CHỦ</a></li>
                         <li className=" navbar-dropdown">
                             
@@ -23,10 +23,23 @@ const Navbar = () => {
 								
                             </div>
                         </li>
+                        <li className=" navbar-dropdown">
+                            
+                            <p  className="navbar-link">GM GROUP CUP ~ </p>
+                        <div className="dropdown-content bg-blue-950 z-10 ">
+                               
+                                <a href="/thethuc">THỂ THỨC</a>
+                                <a href="/giaithuong">GIẢI THƯỞNG</a>
+                                <a href="/ltd">LTĐ VÀ BẢN XẾP HẠNG</a>
+                            
+                            
+                        </div>
+                    </li>
+                        
                      
                         <li className=" navbar-dropdown">
                             
-                            <p  className="navbar-link">QBFC SUNDAY ~ </p>
+                            <p  className="navbar-link">GM GROUP MOMENT~ </p>
                         <div className="dropdown-content bg-blue-950 z-10 ">
                                
                                 <a href="/tieudiem">Tiêu diểm</a>

@@ -4,26 +4,20 @@ import Footer from "../components/footer";
 
 import Body from "../components/body";
 import BigText from "../components/bigtext";
-const Topmua = () => {
+const Giaithuong = () => {
 	return (	
 
 		<>	
-			<Banner text="TOP CÁC MÙA "/>
+			<Banner text=""/>
 			<Body>
 				<div className="flex flex-col justify-center h-full">
+			 <BigText customClass="text-center text-3xl my-14 text-blue-900    " string="2"/>
 
-                <img src={require('../img/BANNER-01.png')} className="mx-auto w-10/12 my-11" alt="Banner" />
-{/* cop ở trên rồi chèn hình ảnh mình thích vào */}
-
-
-				</div>
-			</Body>
+				
+					</div>
+					</Body>
 			<Footer />
 		</>
 		)
-
-
-
-}
-
-export default Topmua;
+        }
+        export default Giaithuong

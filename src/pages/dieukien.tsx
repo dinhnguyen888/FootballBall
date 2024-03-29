@@ -9,7 +9,7 @@ import Banner from "../components/banner";
 import Body from "../components/body";
 
 
-const NoiQuy = () => {
+const Dieukien = () => {
 	return (
 		<>
 			<Navbar />
@@ -19,21 +19,39 @@ const NoiQuy = () => {
 					<BigText customClass=" container text-red-600 text-2xl mx-28 my-7 " string="A.Điều kiện tham dự"/>
 					<BigText customClass=" container font-bold text-xl mx-28 text-blue-700 my-9  " string="1. CHẤP NHẬN CÁC QUY ĐỊNH THUỘC ĐIỀU LUẬT GIẢI ĐẤU BÁN CHUYÊN QBFC GROUP"/>
 					<TextMain customClass="mx-28 my-5 text-base" string="
-					a) Các quy định của giải đấu có thể được cập nhật khi cần thiết. <br>
-					b) Mục đích cập nhật là để làm rõ ràng hơn, sửa lỗi, tuân thủ các thay đổi của luật hiện hành hoặc giải quyết các vấn đề phát sinh trong quá trình diễn ra giải đấu. <br>
-					c) Mục tiêu của việc cập nhật quy định là để đảm bảo một giải đấu công bằng cho tất cả các Vận động viên tham gia. <br>
-					d) Khi đăng ký tham gia giải đấu của QBFC, các vận động viên ĐÃ ĐỒNG Ý RÀNG BUỘC bởi các quy định của giải đấu. <br>
-					e) Các vận động viên cũng đồng ý với các quyết định của trọng tài và BTC giải đấu. <br>
-					f) Chung quy lại, BTC cũng mong muốn các HLV tham dự thể hiện sự chuyên nghiệp nhất có thể.
+					    1.Điều Kiện Tham Gia:<br>
+						Tất cả các đội bóng muốn tham gia giải đấu phải đăng ký theo quy định của tổ chức.<br>
+						Mỗi đội bóng cần tuân thủ các quy định về thành phần, độ tuổi, và bất kỳ quy tắc nào khác được quy định trước đó.<br><br>
+				
+					2.Hình Thức Thi Đấu:<br>
+						Giải đấu có thể được tổ chức dưới nhiều hình thức khác nhau, bao gồm đấu loại trực tiếp, vòng tròn, hay theo thể thức giai đoạn vòng loại và vòng chung kết.<br>
+						Các trận đấu diễn ra theo hình thức online<br><br>
+				
+					3.Quy Định Về Trò Chơi:<br>
+						Các trận đấu phải tuân thủ các quy tắc cụ thể về thời gian, luật chơi và bất kỳ quy định nào khác liên quan đến trò chơi được quy định trước giải đấu.<br><br>
+				
+					4.Tính Công Bằng và Fair Play:<br>
+						Mọi đội bóng và cầu thủ phải thể hiện tinh thần công bằng và fair play trong suốt quá trình thi đấu.<br>
+						Các hành vi không đúng mực hoặc vi phạm quy định sẽ bị xử lý nghiêm khắc.<br> <br>
+				
+					5.Phần Thưởng:<br>
+						Các phần thưởng cho các đội và cá nhân xuất sắc nhất sẽ được công bố trước giải đấu và phải tuân thủ các quy định liên quan.<br>
+				<br>
+					6.Quy Định Phụ Cấp:<br>
+						Các quy định về phí đăng ký, phí tham gia và các khoản phí khác có thể áp dụng và phải được thanh toán đầy đủ và đúng hạn.<br>
+				<br>
+					7.Quy Định Đặc Biệt:<br>
+						Bất kỳ quy định đặc biệt nào khác liên quan đến tổ chức và quản lý giải đấu sẽ được công bố và áp dụng tùy theo tình hình cụ thể của từng giải đấu.<br>
+				<br>
+				Những quy định này nhằm mục đích đảm bảo sự công bằng, minh bạch và cạnh tranh lành mạnh trong giải đấu của FC Online, tạo điều kiện thuận lợi cho sự phát triển của cộng đồng game thủ và người yêu bóng đá trên nền tảng trực tuyến.<br>
 
 					"/>
 
 <BigText customClass=" container font-bold text-xl mx-28 text-blue-700 my-9  " string="2. PHÍ ĐIỀU LỆ GIẢI ĐẤU"/>
 					<TextMain customClass="mx-28 my-5 text-base" string="
-					a) Mỗi Vận động viên đóng phí 50.000 VNĐ qua các cổng thanh toán sau đây.<br>
-					b) Vietcombank: 0311 000 713 823 - TÊN CHỦ THẺ: DUONG HUU DUAN.<br>
-					c) MoMo hoặc thẻ cào Viettel: 0369 623 669 - CHỦ SĐT: DUONG HUU DUAN.<br>
-
+					A) MỖI VẬN ĐỘNG VIÊN ĐÓNG PHÍ 50.000 VNĐ QUA CÁC CỔNG THANH TOÁN SAU ĐÂY.<br>
+					B) VIETINBANK: 0886200436 CHỦ TÀI KHOẢN: PHAN DINH LONG<br>
+					C) MOMO HOẶC THẺ CÀO VIETTEL: 0886200436 - CHỦ SĐT: PHAN DINH LONG<br>
 					"/>
 
 				</div>	
@@ -50,4 +68,4 @@ const NoiQuy = () => {
 
 
 
-export default NoiQuy;
+export default Dieukien;

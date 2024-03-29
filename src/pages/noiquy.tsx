@@ -111,30 +111,9 @@ const NoiQuy = () => {
                     
 					"/>
 
-                    <BigText customClass=" container font-bold text-xl mx-28 text-blue-700 my-9  " string="6. CHỤP ẢNH XÁC MINH KHI THI ĐẤU"/>
-					<TextMain customClass="mx-28 my-5 text-base" string="
-                    a) Bắt buộc phải chụp hình đang ngồi trước màn hình trận đấu với đối thủ.<br>
-                    <br>
-                    b) Chụp phải rõ ràng mặt, rõ tên ingame cả hai<br>
-                    <br>
-                    c) Có thể chụp ở phòng chờ, giữa trận đều được (KHÔNG ĐƯỢC CHỤP kèm với lịch sử kết quả)<br>
-                    <br>
-                    d) Gửi lên nhóm trước, giữa, ngay sau khi trận đấu kết thúc đều được. (trễ nhất 3 phút sau khi kết thúc trận)<br>
-                    <br>
-                    e) Lúc bị diss game, out ra khỏi phòng thì hãy chụp lại<br>
-                    <br>
-                    f) Nếu một trong hai không gửi:<br>
-                    Sẽ đá lại nếu đối thủ đồng ý đá lại.<br>
-                    Giữ nguyên kết quả nếu đối thủ chấp nhận kết quả.<br>
-                    Xử thua nếu đối thủ không đồng ý 2 điều trên.<br>
-                    <br>
-                    g) Nếu cả hai đều không gửi:<br>
-                    Sẽ đá lại. Trừ 3đ fairplay/HLV<br>
-                    Xử thua cả 2 nếu không chịu đá lại.<br>
-                    <br>
-					"/>
+                   
 
-<BigText customClass=" container font-bold text-xl mx-28 text-blue-700 my-9  " string="7. LỜI CẢM ƠN VÌ ĐÃ ĐỌC XONG NỘI QUY"/>
+<BigText customClass=" container font-bold text-xl mx-28 text-blue-700 my-9  " string="6. LỜI CẢM ƠN VÌ ĐÃ ĐỌC XONG NỘI QUY"/>
 					<TextMain customClass="mx-28 my-5 text-base" string="
                 a) BTC xin chân thành cảm ơn các HLV tham gia<br>
                 <br>

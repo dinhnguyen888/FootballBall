@@ -13,6 +13,9 @@ import Topmua from "./pages/topcacmua"
 import Xephang from "./pages/xephangthoidai"
 import Tieudiem from "./pages/tieudiem"
 import Danhsachhlv from "./pages/danhsachhlv"
+import Ltd from "./pages/ltd"
+import Thethuc from "./pages/thethuc"
+import Giaithuong from "./pages/giaithuong"
 export default function App() {
   return (
 	  <>
@@ -31,6 +34,9 @@ export default function App() {
 			  <Route path="/xephang" element = {<Xephang />} />
 			  <Route path="/tieudiem" element = {<Tieudiem />} />
 			  <Route path="/danhsachhlv" element = {<Danhsachhlv/>} />
+			  <Route path="/ltd" element = {<Ltd/>} />
+			  <Route path="/thethuc" element = {<Thethuc/>} />
+			  <Route path="/giaithuong" element = {<Giaithuong/>} />
 		  </Routes>	
 
 	  </>
