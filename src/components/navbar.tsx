@@ -7,7 +7,7 @@ const Navbar = () => {
                 {/* Logo */}
                 <div className="flex items-center justify-between py-4 ">
                     <a href="/" className="text-xl font-bold">
-                    <SvgSmiley style={{ fill: "green", height:"16px", width:"200px" }} />
+						<SvgSmiley style={{ fill: "green", height:"16px", width:"200px" ,display:"none" }} />
                     </a>
                     <ul className="flex space-x-4 ml-60 text-sm ">
                         <li><a href="/" className="navbar-link">TRANG CHỦ</a></li>
