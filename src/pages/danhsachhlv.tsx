@@ -13,7 +13,7 @@ const Danhsachhlv = () => {
 			<Body>
 				<div className="flex flex-col justify-center h-full ">
                 <br className="my-5"/>
-            <Click description="ljskahdsa" details={<div className="flex flex-col flex-wrap my-5 text-3xl">
+            <Click description="dome" details={<div className="flex flex-col flex-wrap my-5 text-3xl">
                 
                 <p className="text-center text-2xl font-bold"> ifuglsfpifofnfobfuigkbxkf</p>
                 <p className="text-center text-2xl font-bold"> ifuglsfpifofnfobfuigkbxkf</p>
@@ -28,7 +28,7 @@ const Danhsachhlv = () => {
                  </div>} />
 
                  <br className="my-5"/>
-                 <Click description="ljskahdsa" details={<div className="flex flex-col flex-wrap my-5 text-3xl">
+                 <Click description="dome" details={<div className="flex flex-col flex-wrap my-5 text-3xl">
                 
                 <p className="text-center text-2xl font-bold"> ifuglsfpifofnfobfuigkbxkf</p>
                 <p className="text-center text-2xl font-bold"> ifuglsfpifofnfobfuigkbxkf</p>
@@ -43,7 +43,7 @@ const Danhsachhlv = () => {
                  </div>} />
 
                  <br className="my-5"/>
-                 <Click description="ljskahdsa" details={<div className="flex flex-col flex-wrap my-5 text-3xl">
+                 <Click description="dome" details={<div className="flex flex-col flex-wrap my-5 text-3xl">
                 
                 <p className="text-center text-2xl font-bold"> ifuglsfpifofnfobfuigkbxkf</p>
                 <p className="text-center text-2xl font-bold"> ifuglsfpifofnfobfuigkbxkf</p>
@@ -58,7 +58,7 @@ const Danhsachhlv = () => {
                  </div>} />
 
                  <br className="my-5"/>
-                 <Click description="ljskahdsa" details={<div className="flex flex-col flex-wrap my-5 text-3xl">
+                 <Click description="dome" details={<div className="flex flex-col flex-wrap my-5 text-3xl">
                 
                 <p className="text-center text-2xl font-bold"> ifuglsfpifofnfobfuigkbxkf</p>
                 <p className="text-center text-2xl font-bold"> ifuglsfpifofnfobfuigkbxkf</p>

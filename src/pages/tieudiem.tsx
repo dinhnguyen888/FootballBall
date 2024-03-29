@@ -13,7 +13,7 @@ const Tieudiem = () => {
 			<Body>
 				<div className="flex flex-col justify-center h-full ">
                 <br className="my-5"/>
-            <Click description="ljskahdsa" details={<div className="flex justify-between flex-wrap my-5">
+            <Click description="demo" details={<div className="flex justify-between flex-wrap my-5">
                 
                 <img src={require('../img/BANNER-01.png')} className="w-[calc(25% - 2rem)] m-4 w-1/4 h-full" alt="Banner" />
                 <img src={require('../img/BANNER-01.png')} className="w-[calc(25% - 2rem)] m-4 w-1/4 h-full" alt="Banner" />
@@ -27,7 +27,7 @@ const Tieudiem = () => {
                  </div>} />
 
                  <br className="my-5"/>
-                 <Click description="ljskahdsa" details={<div className="flex justify-between flex-wrap my-5">
+                 <Click description="demo" details={<div className="flex justify-between flex-wrap my-5">
                 
                 <img src={require('../img/BANNER-01.png')} className="w-[calc(25% - 2rem)] m-4 w-1/4 h-full" alt="Banner" />
                 <img src={require('../img/BANNER-01.png')} className="w-[calc(25% - 2rem)] m-4 w-1/4 h-full" alt="Banner" />
@@ -41,7 +41,7 @@ const Tieudiem = () => {
                  </div>} />
 
                  <br className="my-5"/>
-                 <Click description="ljskahdsa" details={<div className="flex justify-between flex-wrap my-5">
+                 <Click description="demo" details={<div className="flex justify-between flex-wrap my-5">
                 
                 <img src={require('../img/BANNER-01.png')} className="w-[calc(25% - 2rem)] m-4 w-1/4 h-full" alt="Banner" />
                 <img src={require('../img/BANNER-01.png')} className="w-[calc(25% - 2rem)] m-4 w-1/4 h-full" alt="Banner" />
@@ -55,7 +55,7 @@ const Tieudiem = () => {
                  </div>} />
 
                  <br className="my-5"/>
-                 <Click description="ljskahdsa" details={<div className="flex justify-between flex-wrap my-5">
+                 <Click description="demo" details={<div className="flex justify-between flex-wrap my-5">
                 
                 <img src={require('../img/BANNER-01.png')} className="w-[calc(25% - 2rem)] m-4 w-1/4 h-full" alt="Banner" />
                 <img src={require('../img/BANNER-01.png')} className="w-[calc(25% - 2rem)] m-4 w-1/4 h-full" alt="Banner" />
