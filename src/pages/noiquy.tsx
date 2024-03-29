@@ -23,7 +23,7 @@ const NoiQuy = () => {
                     <br>
                     b) Không được tự ý dàn xếp đá trước mà không có quyết định từ BTC.<br>
                     <br>
-                    c) Giờ thi đấu tự do, các HLV tự hẹn nhau trên nhóm Zalo để đá.<br>
+                    c) Giờ thi đấu tự do, các HLV tự hẹn nhau trên nhóm Messenger để đá.<br>
                     <br>
 
 
