@@ -20,20 +20,17 @@ const Thethuc = () => {
 				<TextMain customClass="mx-44  text-base" string="
 
 <br>
-Bao gồm 24 đội <br>
-<br>
-Chia ngẫu nhiên thành: 6 bảng <br>
-<br>
-Mỗi bảng bao gồm 4 đội <br>
-<br>
-Thi đấu 90 phút vòng tròn 2 lượt tính điểm <br>
-<br>
-Nhất nhì mỗi bảng + 4 đội thứ ba tốt nhất vào vòng 16 đội <br>
-<br>
-Từ vòng 16 đội sẽ thi đấu thể thức BO3 <br>
-<br>
-Riêng trận chung kết sẽ là BO5 <br>
+BAO GỒM 24 ĐỘI<br>
+CHIA NGẪU NHIÊN THÀNH: 6 BẢNG<br>
+MỖI BẢNG BAO GỒM 4 ĐỘI<br>
+THI ĐẤU 90 PHÚT VÒNG TRÒN 2 LƯỢT TÍNH ĐIỂM<br><br>
 
+NHẤT NHÌ MỖI BẢNG +4 ĐỘI CÓ THÀNH TÍCH XUẤT SẮC NHẤT ĐI TIẾP VÀO THI ĐẤU Ở NHÁNH THẮNG<br>
+CÁC ĐỘI BỊ LOẠI Ở MỖI BẢNG SẼ THI ĐẤU Ở NHÁNH THUA<br> <br>
+
+TỪ VÒNG 16 ĐỘI SẼ THI ĐẤU THỂ THỨC BO3<br> <br>
+
+RIÊNG TRẬN CHUNG KẾT SẼ LÀ BO5<br>
 
 					"/>
 				
