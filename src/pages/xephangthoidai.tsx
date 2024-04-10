@@ -11,8 +11,8 @@ const Xephang = () => {
 			<Banner text="BẢNG XẾP HẠNG NHÀ VÔ ĐỊCH"/>
 			<Body>
 				<div className="flex flex-col justify-center h-full">
-
-                <img src={require('../img/BANNER-01.png')} className="mx-auto w-10/12 my-11" alt="Banner" />
+				<BigText customClass="text-center text-3xl my-8 text-red-500    " string="MÙA 1 - NGUYỄN DUY ANH"/>
+                <img src={require('../img/mua1.jpg')} className="mx-auto w-5/12 my-8" alt="Banner" />
 {/* cop ở trên rồi chèn hình ảnh mình thích vào */}
 
 
