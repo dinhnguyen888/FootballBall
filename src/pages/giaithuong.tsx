@@ -12,7 +12,7 @@ const Giaithuong = () => {
 			<Banner text=""/>
 			<Body>
 				<div className="flex flex-col justify-center h-full">
-			 <BigText customClass=" mx-44 text-xl my-5 text-blue-900    " string="NHÁNH THẮNG:"/>
+			 <BigText customClass=" mx-44 text-xl my-5 text-blue-900    " string="GIẢI THƯỞNG"/>
 
 			 <TextMain customClass="mx-44 text-base" string="
 			     VÔ ĐỊCH: 350<br>
@@ -20,11 +20,7 @@ const Giaithuong = () => {
 				 HẠNG 3: 100<br>
 				 HẠNG TƯ: 50<br>" />
 			 
-			 <BigText customClass="mx-44 text-xl my-5 text-red-500     " string="NHÁNH THUA:"/>
-			 <TextMain customClass="mx-44  text-base" string="
-				 VÔ ĐỊCH: 120<br>
-				 HẠNG NHÌ: 60<br>
-			 " />
+			 
 					</div>
 					</Body>
 			<Footer />
