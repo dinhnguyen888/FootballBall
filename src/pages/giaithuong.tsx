@@ -15,10 +15,10 @@ const Giaithuong = () => {
 			 <BigText customClass=" mx-44 text-xl my-5 text-blue-900    " string="NHÁNH THẮNG:"/>
 
 			 <TextMain customClass="mx-44 text-base" string="
-			     VÔ ĐỊCH: 450<br>
-				 GIẢI NHÌ: 300<br>
-				 HẠNG 3: 150<br>
-				 HẠNG TƯ: 100<br>" />
+			     VÔ ĐỊCH: 350<br>
+				 GIẢI NHÌ: 200<br>
+				 HẠNG 3: 100<br>
+				 HẠNG TƯ: 50<br>" />
 			 
 			 <BigText customClass="mx-44 text-xl my-5 text-red-500     " string="NHÁNH THUA:"/>
 			 <TextMain customClass="mx-44  text-base" string="

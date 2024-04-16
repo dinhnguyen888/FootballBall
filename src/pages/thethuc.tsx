@@ -12,7 +12,7 @@ const Thethuc = () => {
 			<Banner text=""/>
 			<Body>
 				<div className="flex flex-col justify-center h-full">
-			 <BigText customClass=" text-xl mt-11 text-blue-900 mx-44   " string="	GM CROUP CUP - MÙA 1"/>
+			 <BigText customClass=" text-xl mt-11 text-blue-900 mx-44   " string="	GM GROUP CUP - MÙA 2"/>
 
 
 
@@ -25,12 +25,13 @@ CHIA NGẪU NHIÊN THÀNH: 6 BẢNG<br>
 MỖI BẢNG BAO GỒM 4 ĐỘI<br>
 THI ĐẤU 90 PHÚT VÒNG TRÒN 2 LƯỢT TÍNH ĐIỂM<br><br>
 
-NHẤT NHÌ MỖI BẢNG +4 ĐỘI CÓ THÀNH TÍCH XUẤT SẮC NHẤT ĐI TIẾP VÀO THI ĐẤU Ở NHÁNH THẮNG<br>
-CÁC ĐỘI BỊ LOẠI Ở MỖI BẢNG SẼ THI ĐẤU Ở NHÁNH THUA<br> <br>
+
+NHẤT NHÌ MỖI BẢNG +4 ĐỘI CÓ THÀNH TÍCH XUẤT SẮC NHẤT ĐI TIẾP VÀO THI ĐẤU Ở VÒNG LOẠI TRỰC TIẾP<br>
+
 
 TỪ VÒNG 16 ĐỘI SẼ THI ĐẤU THỂ THỨC BO3<br> <br>
 
-RIÊNG TRẬN CHUNG KẾT SẼ LÀ BO5<br>
+
 
 					"/>
 				
