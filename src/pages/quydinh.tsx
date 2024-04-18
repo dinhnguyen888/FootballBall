@@ -19,7 +19,7 @@ const Quydinh = () => {
 					<BigText customClass=" container text-red-600 text-2xl mx-28 my-7 " string="C. ĐỘI HÌNH"/>
 					
 					<TextMain customClass="mx-28 my-5 text-base" string="
-					a) Sử dụng đội hình tự do (tối đa +8).<br>
+					a) Sử dụng đội hình tự do.<br>
                     <br>
                     b) Được phép thay đổi, mua cầu thủ khác trong lúc giải đấu diễn ra<br>
                     <br>
