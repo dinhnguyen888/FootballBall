@@ -20,8 +20,8 @@ const Thethuc = () => {
 				<TextMain customClass="mx-44  text-base" string="
 
 <br>
-BAO GỒM 24 ĐỘI<br>
-CHIA NGẪU NHIÊN THÀNH: 6 BẢNG<br>
+BAO GỒM 20 ĐỘI<br>
+CHIA NGẪU NHIÊN THÀNH: 4 BẢNG<br>
 MỖI BẢNG BAO GỒM 4 ĐỘI<br>
 THI ĐẤU 90 PHÚT VÒNG TRÒN 2 LƯỢT TÍNH ĐIỂM<br><br>
 

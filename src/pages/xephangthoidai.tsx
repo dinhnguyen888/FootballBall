@@ -14,7 +14,8 @@ const Xephang = () => {
 				<BigText customClass="text-center text-3xl my-8 text-red-500    " string="MÙA 1 - NGUYỄN DUY ANH"/>
                 <img src={require('../img/mua1.jpg')} className="mx-auto w-5/12 my-8" alt="Banner" />
 {/* cop ở trên rồi chèn hình ảnh mình thích vào */}
-
+				<BigText customClass="text-center text-3xl my-8 text-red-500    " string="MÙA 2 - Vis's Sơn"/>
+                <img src={require('../img/mua2.jpg')} className="mx-auto w-5/12 my-8" alt="Banner" />
 
 				</div>
 			</Body>
